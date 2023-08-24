@@ -1,0 +1,11 @@
+Elmer version: 9.0
+Elmer compilation date: 2022-07-29
+Solver input file: case.sif
+File started at: 2023/08/24 13:36:36
+ 
+Variables in columns of matrix: results/scalars.dat
+   1: res: eddy current power
+   2: res: electromagnetic field energy
+   3: res: volume probe v
+   4: res: volume probe bz
+   5: res: volume probe bsq
